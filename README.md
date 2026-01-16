@@ -52,6 +52,20 @@ The CNN architecture includes:
 - Matplotlib
 
 ---
+## 📂 Dataset
+This project uses the **UrbanSound8K** dataset, a widely used benchmark dataset for urban sound classification.
+
+- Number of audio clips: 8,732
+- Number of classes: 10
+- Audio format: WAV
+- Duration: ≤ 4 seconds
+
+The dataset is publicly available on Kaggle and is **not included in this repository due to its large size**.
+
+🔗 Dataset link:  
+https://www.kaggle.com/datasets/chrisfilo/urbansound8k
+
+---
 
 ## 📄 Academic Report
 A detailed academic report describing the theoretical background, methodology, and experimental results
